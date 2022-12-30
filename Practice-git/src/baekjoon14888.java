@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.math.*;
+
 public class baekjoon14888 {
 	public static int N;
 	public static int maxVal=Integer.MIN_VALUE;
