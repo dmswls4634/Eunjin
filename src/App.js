@@ -22,7 +22,7 @@ function Board(){
   const [squares, setSquares]=useState(Array(9).fill(null))
   
   function Winner(squares){
-    const lines=[
+    const lines=[ 
       [0,1,2],
       [3,4,5],
       [6,7,8],
